@@ -1,0 +1,8 @@
+/*
+Theme Name:     Twenty Eleven Slimmed Child Theme
+Theme URI:      http: //example.com/
+Description:    Removes author page, links to author pages and dates from blog entries.
+Template:       twentyeleven
+Version:        0.0.1
+*/
+@import url("../twentyeleven/style.css");
